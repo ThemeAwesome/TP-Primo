@@ -1,5 +1,25 @@
 # Changelog
 
+###[1.0.3] 2018-05-12
+###### `Changed`
+* One of the new controls that was added to `General > Layout` called `Right and Left Sidebar Content Width` was set to a `number control` as I was trying to work out the best solution to implement this area. I had chosen a `select` control but wanted to see if the `number` control would possibly work better. r my tests I faild to switch it back to a `select` control.
+
+###### [1.0.2] 2018-05-11
+###### `Added`
+* Plugin activation for licensing and updates - users who receive a license key, will now receieve a notification that an update is available for the plugin. Users of the Lifetime Access Pass will also receive an update notification.
+* Ability to change the width of the main content container which changes the width of the sidebars.
+* Made the notices that appear after installation closeable.
+* Added the ability to change the background color of widgets in all of the sidebar areas.
+* Background color control to the main Top Sidebar container.
+* Background color control to the main Header container.
+* Background color control to the main Navigation container.
+* Background color control to the main Content container.
+* Background color control to the main Footer Widgets container.
+* Background color control to the main Footer container.
+
+###### `Removed`
+* All reference, styles and code for the Social Icons which were a part of TotalPress as well as TP Primo. These were removed because of the removal of Font Awesome.
+
 ### [1.0.1] 2018-04-29
 ###### `Added`
 * `changelog.txt` to keep track of any and all changes made to the plugin. Also created a GitHub repo to maintain a changelog file as well.
@@ -13,3 +33,5 @@
 
 ##### [1.0.0] 2018-04-16
 * Hello World.
+
+
