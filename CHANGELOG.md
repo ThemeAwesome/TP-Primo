@@ -1,6 +1,21 @@
 # Changelog
 
-###[1.0.3] 2018-05-12
+### [1.1.0] 2018-06-26
+###### `Added`
+* Added inline styles to the activation area. The word "Active" is now more vertically centered and is bold.
+* Added inline styles to the Customizer and Documentation links on the main plugin page. This was done to make them standout for new users.
+* Added the `Sticky Nav`,`Scroll Hide Nav` and `Sticky Shrink Nav` options to the `Navigation > Layout` section.
+* Added missing styles to `tp-primo-styles.css` pertaining to setting a page or post to 100% width in the `Post/Page Options` metabox. I thought I had added this previously, which I did, but there was another portion that need to be added.
+
+###### `Changed`
+* Moved the activation and licensing script to the admin folder instead of the asset folder.
+* Modified code for the metaboxes. Now metaboxes will show for any custom post type. 
+
+###### `Removed`
+* Removed the changelog.txt file. The readme.txt file will hold all of the changes to the plugin. This is also used by the update script to deliver the changes to the update screen.
+* Removed the option to switch to the old comment form and back. In general this is not used and just takes up space.
+
+###### [1.0.3] 2018-05-12
 ###### `Changed`
 * One of the new controls that was added to `General > Layout` called `Right and Left Sidebar Content Width` was set to a `number control` as I was trying to work out the best solution to implement this area. I had chosen a `select` control but wanted to see if the `number` control would possibly work better. r my tests I faild to switch it back to a `select` control.
 
