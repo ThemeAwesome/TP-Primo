@@ -1,6 +1,6 @@
 # Changelog
 
-### [1.1.0] 2018-06-26
+### [1.1.0] 2018-06-25
 ###### `Added`
 * Added inline styles to the activation area. The word "Active" is now more vertically centered and is bold.
 * Added inline styles to the Customizer and Documentation links on the main plugin page. This was done to make them standout for new users.
