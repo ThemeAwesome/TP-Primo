@@ -12,4 +12,4 @@
 Description
 ===
 
-This is the premium companion plugin to the [TotalPress](https://themeawesome.com/) WordPress theme. [TP Primo](https://themeawesome.com/tp-primo/) adds more options to the theme customizer and metabox options to the post and page editor.. This repository will only host the `CHANGELOG` file to keep track of any and all changes.
+This is the premium companion plugin to the [TotalPress](https://themeawesome.com/totalpress-wordpress-foundation-theme/) WordPress theme. [TP Primo](https://themeawesome.com/tp-primo/) adds more options to the theme customizer and metabox options to the post and page editor.. This repository will only host the `CHANGELOG` file to keep track of any and all changes.
