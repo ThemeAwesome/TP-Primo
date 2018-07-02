@@ -1,8 +1,20 @@
 # Changelog
+### [1.1.1] 2018-07-02
+###### `Fixed`
+* Issue with header not being displayed. This was due to one of the controls not reading the default setting properly.
+* Issue where the `Featured Image Position` was not working properly
 
-### [1.1.0] 2018-06-25
 ###### `Added`
-* Added inline styles to the activation area. The word "Active" is now more vertically centered and is bold.
+* Added color controls to change the colors of the close button, the text and the hamburger icon in the Off Canvas menu.
+* Added back the `Navigation Layout` section under `Content > Posts > Blog Posts`. For some reason this was removed. The function was still in the plugin but the control was not.
+* Added numerous `color` controls to the `Content > Posts > Colors` section. 
+
+###### `Changed`
+* Changed the priority of `Content Backgound` to `1` in `General > Colors` section. This makes it show up first in this section.
+
+###### [1.1.0] 2018-06-25
+###### `Added`
+* Added inline styles to the activation area. The word `"Active"` is now more vertically centered and is bold.
 * Added inline styles to the Customizer and Documentation links on the main plugin page. This was done to make them standout for new users.
 * Added the `Sticky Nav`,`Scroll Hide Nav` and `Sticky Shrink Nav` options to the `Navigation > Layout` section.
 * Added missing styles to `tp-primo-styles.css` pertaining to setting a page or post to 100% width in the `Post/Page Options` metabox. I thought I had added this previously, which I did, but there was another portion that need to be added.
